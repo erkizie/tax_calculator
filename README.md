@@ -1,6 +1,6 @@
 # tax_calculator
 
-A command-line application that calculates sales tax and prints receipts for these specific shopping baskets.
+A command-line application that calculates sales tax and prints receipts for specific shopping baskets.
 
 ## Description
 
